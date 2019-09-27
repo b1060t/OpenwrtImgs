@@ -11,3 +11,11 @@
 3. dnsmasq-full
 
 4. filetransfer enabled, use web page to install ipks
+
+## GL-AR750S/test
+
+> kernel version: 4.19
+
+> target: ath79
+
+1. kmod-tcp-bbr supported
